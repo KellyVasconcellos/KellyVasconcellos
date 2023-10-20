@@ -1,10 +1,10 @@
 ## Olá! Eu sou a Kelly Vasconcellos
 
-- 💼 Em busca de minha primeira oportunidade em desenvolvimento front-end web
-- 🌱 Atualmente estou estudando Angular++, HTML5, CSS3, Bootstrap
+- 💼 Em busca de minha primeira oportunidade em desenvolvimento web full stack (Angular e Java).
+- 🌱 Atualmente estou estudando Java e busco aprimorando meus conhecimentos em Angular++, TypeScript, JavaScript, HTML5, CSS3 Sass, Bootstrap
 - 📫 Contate-me no e-mail: kelly.h.vasconcellos@gmail.com
-- 🏫 Estudante em Análise e Desenvolvimento de Sistemas - Faculdade Impacta Tecnologia
-- 😄 Pronouns: ela/dela
+- 🏫 Estudante em Análise e Desenvolvimento de Sistemas - Faculdade Impacta Tecnologia com formação para 12/23. Em 2024 iniciarei Bacharel em Sistemas da Informação.
+- 😄 Pronouns: ela/dela.
 
 
 <div>
