@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Kelly Vasconcellos
 
-- 💼 Em busca de minha primeira oportunidade em desenvolvimento web fron-end (Angular ou React).
+- 💼 Em busca de minha primeira oportunidade em desenvolvimento web front-end (Angular ou React).
 - 🌱 Atualmente estou estudando React e busco aprimorando meus conhecimentos em Angular2+, TypeScript, JavaScript, HTML5, CSS3 Sass, Bootstrap e Tailwind Css.
 - 📫 Contate-me no e-mail: kelly.h.vasconcellos@gmail.com
 - 🏫 Estudante em Análise e Desenvolvimento de Sistemas - Faculdade Impacta Tecnologia com formação para 12/23. Em 2024 iniciarei Tecnologia em Ciência de Dados.
