@@ -1,13 +1,5 @@
 ## Olá! Eu sou a Kelly Vasconcellos
 
-- 💼 Em busca de minha primeira oportunidade em ciência de dados ou desenvolvimento web front-end (Angular).
-- 🌱 Atualmente me dedico ao estudo de ciência de dados e em paralelo sigo aprimorando meus conhecimentos em Angular2+, TypeScript, JavaScript, HTML5, CSS3 Sass, Bootstrap e Tailwind Css.
-- 📫 Contate-me no e-mail: kelly.h.vasconcellos@gmail.com
-- 🏫 Estudante de Ciência de Dados - Faculdade Presbiteriana Mackenzie.
-     Formada em Análise e Desenvolvimento de Sistemas - Faculdade Impacta Tecnologia em 12/23.
-- 😄 Pronouns: ela/dela.
-
-
 <div>
   <a href="https://github.com/KellyVasconcellos">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=KellyVasconcellos&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
