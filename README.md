@@ -32,7 +32,7 @@ Atualmente, trabalho e foco no aprofundamento da stack **Python**, desenvolvendo
   <img alt="AWS" height="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img alt="SQLalchemy" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
+  <img alt="SQLalchemy" height="60" width="100" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
   <img alt="GraphQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
   <img alt="Dbeaver" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg">
   
@@ -53,12 +53,7 @@ Atualmente, trabalho e foco no aprofundamento da stack **Python**, desenvolvendo
 ### 📩 Contato
 
 <div align="center">
-  <a href="mailto:kelly.h.vasconcellos@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/kellyvasconcellos/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <a href="mailto:kelly.h.vasconcellos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://www.linkedin.com/in/kellyvasconcellos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KellyVasconcellos/KellyVasconcellos/output/github-contribution-grid-snake-dark.svg" />
