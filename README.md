@@ -1,7 +1,7 @@
 # Olá! Eu sou a Kelly Vasconcellos
 
 ### 👩‍💻 Sobre Mim
-Sou **Desenvolvedora Back-end** focada em construir sistemas eficientes, escaláveis e bem estruturados. Este espaço no GitHub é onde compartilho minha jornada, reunindo tanto **projetos acadêmicos**, frutos de muito estudo e pesquisa, quanto **projetos pessoais**, onde coloco em prática novas tecnologias e busco solucionar problemas do dia a dia.
+Sou **Desenvolvedora Backend** focada em construir sistemas eficientes, escaláveis e bem estruturados. Este espaço no GitHub é onde compartilho minha jornada, reunindo tanto **projetos acadêmicos**, frutos de muito estudo e pesquisa, quanto **projetos pessoais**, onde coloco em prática novas tecnologias e busco solucionar problemas do dia a dia.
 
 Atualmente, trabalho e foco no aprofundamento da stack **Python**, desenvolvendo APIs e microsserviços com arquitetura serverless.
 
@@ -53,16 +53,8 @@ Atualmente, trabalho e foco no aprofundamento da stack **Python**, desenvolvendo
 ### 📩 Contato
 
 <div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kelly.h.vasconcellos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  &nbsp;&nbsp; <a href="https://www.linkedin.com/in/kellyvasconcellos/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kelly.h.vasconcellos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kellyvasconcellos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <br><br>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KellyVasconcellos/KellyVasconcellos/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KellyVasconcellos/KellyVasconcellos/output/github-contribution-grid-snake.svg" />
