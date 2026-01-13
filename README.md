@@ -51,8 +51,7 @@
   </a>
 </div>
  
-<[snake animation](https://github.com/KellyVasconcellos/KellyVasconcellos/blob/output/github-contribution-grid-snake2.svg)>
-
+![snake animation](https://raw.githubusercontent.com/KellyVasconcellos/KellyVasconcellos/output/github-contribution-grid-snake2.svg)
 
 
 
