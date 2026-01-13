@@ -18,7 +18,6 @@ Atualmente, trabalho e foco no aprofundamento da stack **Python**, desenvolvendo
 <br>
 
 ### 🛠️ Tecnologias e Ferramentas
-
 <div align="center">
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img alt="FastAPI" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
@@ -41,6 +40,7 @@ Atualmente, trabalho e foco no aprofundamento da stack **Python**, desenvolvendo
   <img alt="ScikitLearn" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
   <img alt="Jupyter" height="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img alt="Matplotlib" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg">
+  
   <br><br>
   <img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -51,7 +51,6 @@ Atualmente, trabalho e foco no aprofundamento da stack **Python**, desenvolvendo
 <br>
 
 ### 📩 Contato
-
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kelly.h.vasconcellos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kellyvasconcellos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <br><br>
