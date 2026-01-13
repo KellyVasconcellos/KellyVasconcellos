@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/KellyVasconcellos">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KellyVasconcellos&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&cache_seconds=1800" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellyVasconcellos&layout=compact&langs_count=7&theme=discord_old_blurple&cache_seconds=1800" />
-    <img height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613" />
+    <img height="180" src="https://github-readme-stats-one.vercel.app/api?username=KellyVasconcellos&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=KellyVasconcellos&layout=compact&langs_count=7&theme=discord_old_blurple" />
+    <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZAmN0PWc/3o7TKMGpxxcaOmsOHe/giphy.gif" />
   </a>
 </div>
 
