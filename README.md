@@ -4,6 +4,7 @@
 Sou **Desenvolvedora Backend e graduanda em Ciência de Dados pela Universidade Presbiteriana Mackenzie**. Meu foco está em construir sistemas eficientes, escaláveis e orientados a dados, unindo a robustez da engenharia de software com o poder analítico da inteligência artificial. Este espaço no GitHub é onde compartilho minha jornada, reunindo tanto **projetos acadêmicos**, frutos de muito estudo e pesquisa, quanto **projetos pessoais**, onde coloco em prática novas tecnologias e busco solucionar problemas do dia a dia.
 
 Atualmente, trabalho e foco no aprofundamento da stack **Python**, explorando como a engenharia de backend pode potencializar a entrega de valor em projetos de dados e inteligência generativa.
+
 ---
 
 <div align="center">
